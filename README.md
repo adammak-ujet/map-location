@@ -1,2 +1,2 @@
 # map-location
-Generates an embedded Google Maps view based on the lon and lan URL parameters.
+Release 0.1 - Generate an embedded map based on lat and lon parameters in the URL.
